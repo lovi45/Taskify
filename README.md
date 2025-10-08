@@ -1,16 +1,27 @@
-# taskify
+# Taskify ✅
+A lightweight, user-friendly task management app to organize your daily to-dos.
 
-A new Flutter project.
+## 💡 Features
+- Add, complete, and delete tasks easily
+- Beautiful minimal UI
+- “Done” animation when task is completed
+- Light theme with blue-green color scheme
+- Local data storage (using List in memory)
 
-## Getting Started
+## 🎨 UI Colors
+- Dark Blue: `#1A5A7A`
+- Vibrant Green: `#5ACD8E`
+- Background: White
 
-This project is a starting point for a Flutter application.
+## 🚀 How to Run
+1. Clone the project
+2. Run `flutter pub get`
+3. Start app using `flutter run`
 
-A few resources to get you started if this is your first Flutter project:
+## 📸 Screenshot
+_Add preview image of Taskify main screen_
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🧠 Learnings
+- Flutter ListView & State management
+- Task CRUD operations
+- UI theming and color consistency
